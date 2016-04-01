@@ -31,7 +31,7 @@ How to use the App
 Analysis & Prediction Algorithm
 ========================================================
 
-1. **Cleaning** of the text data
+1. **Cleaning** HC Corpora text data
 2. **Tokenization into n-grams** stored in term frequency matrices: bigrams, trigrams and quadgrams
 3. **Prediction Algorithm process**
     - Read the user input text
@@ -46,7 +46,7 @@ Documentation
 
 The app is available on [ShinyApps.io](https://stephaniecnvs.shinyapps.io/Next_Word_Prediction/).  
 
-Source codes (*ui.R*, *server.R* and *word_prediction.R*) are available on [GitHub]()
+Source codes (*ui.R*, *server.R* and *word_prediction.R*) are available on [GitHub](https://github.com/stephaniecan/data_science_capstone/tree/master/Next_Word_Prediction)
 
 The Milestone Report (Exploratory Data Analysis) is available at [RPubs](http://rpubs.com/Stephaniecnvs/NLP-milestone-report).
 
